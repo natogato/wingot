@@ -1,0 +1,7 @@
+Microsoft.VisualStudio.2019.BuildTools
+Microsoft.VC++2015-2022Redist-x86
+Python.Python.3
+RARLab.WinRAR
+PassmarkSoftware.OSFMount
+7zip.7zip
+Microsoft.PowerToys
